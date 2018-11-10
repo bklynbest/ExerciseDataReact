@@ -1,2 +1,0 @@
-# ExerciseDataReact
-Created with CodeSandbox
